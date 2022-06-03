@@ -1,1 +1,1 @@
-# telegtam_money_bot
+# telegram_money_bot
